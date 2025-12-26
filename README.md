@@ -18,7 +18,7 @@ This script was made in Python 3.13.
 
 3. There is a two second delay between calls to respect rate limits
 
-4. Once finished, a summary will appear in the terminal and the full data will be available in steam_deals.csv
+4. Once finished, a summary will appear in the terminal and the full data will be available in ```steam_deals.csv```
 
 ###### CSV Output Format
 
